@@ -1,7 +1,12 @@
-- 👋 Hi, I’m Nishu Chaurasiya.
-- 👀 I’m interested in Java, SQL & Python.
-- 🌱 I’m currently learning Java and SQL.
-- 📫 How to reach me chaurasia.nishu.15@gmail.com
+Hello 👋 I am Nishu Rathore.
+First of all, thanks for visiting my profile. Here, what you should know about me:
+
+I am a self driven passionate coder who loves to solve problems and write efficient codes.
+My primary coding language: Python.
+I am happy to discuss about: SQL, Linux, Hadoop, Hive, Programming in Python/Java, Panda's Library, PySpark, Cloud(AWS) and PowerBI.
+I am looking forward to collaborate on Open-Source Projects.
+I am just trying to impart my knowledge via repositories which will be quite helpful for those who codes in python.
+Python Hadoop MySQL Hive PySpark AWS PowerBi Github Linux
 
 
 <!---
